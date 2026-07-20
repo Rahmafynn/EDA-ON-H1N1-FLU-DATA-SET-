@@ -14,7 +14,10 @@ Individuals with chronic medical conditions appear more likely to receive the H1
 
 Household characteristics, such as the number of children, provide additional context for vaccination decisions.
 
-(Insights will be refined as analysis progresses.)
+Insights and analysis can be found in data reports file in this repository
+
+
+
 
 🛠️ Tools & Methods
 
